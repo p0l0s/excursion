@@ -2,4 +2,28 @@ body {
     background-color: black;
     color: white;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+.top {
+    font-weight: normal;
+    font-size: 50px;
+}
+
+p {
+    color: aquamarine;
+    font-size: 16px;
+}
+
+.caption {
+    font-weight: 300;
+    font-size: 42px;
+}
+
+.centercap {
+    font-size: 21px;
+    color: gray;
+}
+.copyright {
+    text-align: right;
+    color: gray;
 }
